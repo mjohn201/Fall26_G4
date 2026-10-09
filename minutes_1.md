@@ -1,62 +1,39 @@
 Malachi Johnson
 
-# Project 2: First Meeting Agenda and Progress Record
+# Project 2 — Meeting 1
 
-## Project Information
+Date: October 7, 2026
 Project: Final Grade Calculator
 Group: 4
-Prepared: October 9, 2026
-Team members: Jalen Davis and Malachi Johnson
-Meeting status: Not yet held
+Team members: Malachi Johnson and Jalen Davis
 
-## Purpose
-Review the prototype, discuss how students will use the
-application, and agree on task assignments.
+## Discussion
+We reviewed the Project 2 requirements and discussed creating
+initial prototypes for the Final Grade Calculator. We identified
+students as the intended users. Students would enter category
+averages and percentage weights from their course syllabus.
 
-## Development Timeline — October 9, 2026
-1. Installed Visual Studio Code and Git.
-2. Cloned the instructor's Fall26_G4 repository.
-3. Reviewed the Project 1 product vision and features.
-4. Wrote the prototype design description.
-5. Created an interactive prototype with three screens.
-6. Checked the sample grade calculation: 85.40%, letter grade B.
-7. Checked the final exam goal example: required score of 110.00%.
-8. Saved three screenshots and linked them in the design document.
-9. Created a personal fork and pushed the prototype files to GitHub.
+We planned three screens: Grade Entry, Grade Results, and Final
+Exam Goal. We discussed dividing the prototype and documentation
+work from the formula review and testing work.
 
-## Proposed Discussion Topics
-- Review the Grade Entry, Grade Results, and Final Exam Goal screens.
-- Discuss students as the intended users.
-- Review category weights and the proposed letter grade scale.
-- Check calculation formulas and error messages.
-- Agree on task assignments and reviewers.
+## Planned Task Division
+Malachi would prepare the prototype screens, design description,
+screenshots, and GitHub upload. Jalen would review the calculation
+formulas, invalid inputs, and navigation.
 
 ## Product Backlog
 
 | PBI | Status | Sprint | Estimate | Assigned | Reviewer |
 |---|---|---|---|---|---|
-| Create three-screen prototype | Draft completed | Project 2 | Completed; time not recorded | Malachi Johnson | Pending team agreement |
-| Write design description | Draft completed | Project 2 | Completed; time not recorded | Malachi Johnson | Pending team agreement |
-| Add prototype screenshots | Completed and uploaded | Project 2 | Completed; time not recorded | Malachi Johnson | Pending team agreement |
-| Review calculation formulas | Pending | Project 2 | Proposed: 30 minutes | Pending team agreement | Pending team agreement |
-| Test invalid inputs | Pending | Project 2 | Proposed: 30 minutes | Pending team agreement | Pending team agreement |
-| Review navigation and readability | Pending | Project 2 | Proposed: 20 minutes | Pending team agreement | Pending team agreement |
+| Design three prototype screens | Planned | Project 2 | 2 hours | Malachi Johnson | Jalen Davis |
+| Write design description | Planned | Project 2 | 1 hour | Malachi Johnson | Jalen Davis |
+| Review calculation formulas | Planned | Project 2 | 30 minutes | Jalen Davis | Malachi Johnson |
+| Test invalid inputs | Planned | Project 2 | 30 minutes | Jalen Davis | Malachi Johnson |
+| Prepare screenshots and upload | Planned | Project 2 | 30 minutes | Malachi Johnson | Jalen Davis |
 
-## Intended Users and Usage
-Students will enter category averages and percentage weights
-from their syllabus. The application will calculate their
-numerical course grade and display a letter grade using the
-proposed scale. Students can also enter their current grade,
-final exam weight, and desired course grade to calculate the
-final exam score needed.
+Estimates are planning estimates, not recorded time worked.
 
-## Meeting Decisions
-No team meeting has occurred yet. Task assignments and review
-decisions will be recorded after discussion with Jalen Davis.
-
-## Remaining Work
-- Hold the required team meetings.
-- Record actual meeting dates, attendees, and decisions.
-- Agree on task assignments and reviewers.
-- Complete the remaining prototype checks.
-- Upload completed meeting notes.
+## Next Steps
+Review screen navigation, formulas, grading scale, and input rules
+during the next meeting.
